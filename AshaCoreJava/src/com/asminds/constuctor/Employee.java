@@ -5,6 +5,8 @@ public class Employee extends Hr {
 	private String name;
 	private double salary;
 	
+	
+	
 	public Employee() {
 		super();
 		System.out.println("constructor");

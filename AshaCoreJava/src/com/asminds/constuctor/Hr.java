@@ -7,6 +7,8 @@ public class Hr {
 		return hike;
 	}
 
+	
+	
 	public void setHike(int hike) {
 		this.hike = hike;
 	}
